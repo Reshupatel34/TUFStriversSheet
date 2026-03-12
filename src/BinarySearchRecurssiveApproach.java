@@ -1,5 +1,5 @@
 public class BinarySearchRecurssiveApproach {
-//    Time Complexity O(n)
+//    Time Complexity O(log n)
     public static int Recurssive(int nums[],int low,int high,int target){
        if(low>high)return -1;
 
