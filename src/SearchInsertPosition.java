@@ -17,6 +17,6 @@ public class SearchInsertPosition {
                 low=mid+1;
             }
         }
-        System.out.println(ans);
+        System.out.println("Found at"+ans);
     }
 }
